@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans>
+    <bean id="cardDAO" class="CardDAO"/>
+    <bean id="chatDAO" class="ChatDAO"/>
+    <bean id="userDAO" class="UserDAO"/>
+    <bean id="userService" class="UserService"/>
+</beans>
