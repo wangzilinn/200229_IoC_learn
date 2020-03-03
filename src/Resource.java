@@ -9,5 +9,5 @@ import java.lang.annotation.Target;
 @Target({ElementType.FIELD, ElementType.METHOD})
 public @interface Resource {
     //注解的name属性
-    public String name() default "";
+    public String id() default "";
 }

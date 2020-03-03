@@ -1,11 +1,8 @@
-public class BeanDefine {
+public class XMLBean {
     private String id;
     private String className;
 
-    public BeanDefine() {
-    }
-
-    public BeanDefine(String id, String className) {
+    public XMLBean(String id, String className) {
         this.id = id;
         this.className = className;
     }

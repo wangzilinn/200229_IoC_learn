@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        ClassPathXMLApplicationContext path = new ClassPathXMLApplicationContext(
+        ClassPathXMLApplicationContext context = new ClassPathXMLApplicationContext(
                 "context.xml");
-        UserService userService = (UserService) path.getBean("userService");
+        UserService userService = (UserService) context.getBean("userService");
         userService.show();
-
     }
 }

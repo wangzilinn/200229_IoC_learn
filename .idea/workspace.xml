@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2bb389c-b946-4a52-a762-214b5ee0a77e" name="Default Changelist" comment="" />
+    <list default="true" id="b2bb389c-b946-4a52-a762-214b5ee0a77e" name="Default Changelist" comment="修改了变量命名, 增加了README">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeanDefine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XMLBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassPathXMLApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassPathXMLApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YTxLSABxKfD8aveFwXfE3daus4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -47,6 +62,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,34 +84,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582980328905</updated>
-      <workItem from="1582980333022" duration="8226000" />
+      <workItem from="1582980333022" duration="9894000" />
+      <workItem from="1583153502617" duration="319000" />
+      <workItem from="1583221560966" duration="6641000" />
+      <workItem from="1583229968491" duration="227000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改了变量命名, 增加了README" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了变量命名, 增加了README" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2131" y="-286" key="#com.intellij.ide.util.MemberChooser" timestamp="1582982600771">
       <screen x="1366" y="-494" width="1920" height="1050" />
     </state>
     <state x="2131" y="-286" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582982600771" />
-    <state width="1877" height="303" key="GridCell.Tab.0.bottom" timestamp="1582987942917">
+    <state x="1928" y="-376" key="CommitChangelistDialog2" timestamp="1583230191978">
       <screen x="1366" y="-494" width="1920" height="1050" />
     </state>
-    <state width="1877" height="303" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582987942917" />
-    <state width="1877" height="303" key="GridCell.Tab.0.center" timestamp="1582987942917">
+    <state x="1928" y="-376" key="CommitChangelistDialog2/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1583230191978" />
+    <state width="1877" height="303" key="GridCell.Tab.0.bottom" timestamp="1582990919041">
       <screen x="1366" y="-494" width="1920" height="1050" />
     </state>
-    <state width="1877" height="303" key="GridCell.Tab.0.center/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582987942917" />
-    <state width="1877" height="303" key="GridCell.Tab.0.left" timestamp="1582987942916">
+    <state width="1877" height="303" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582990919041" />
+    <state width="1877" height="303" key="GridCell.Tab.0.center" timestamp="1582990919041">
       <screen x="1366" y="-494" width="1920" height="1050" />
     </state>
-    <state width="1877" height="303" key="GridCell.Tab.0.left/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582987942916" />
-    <state width="1877" height="303" key="GridCell.Tab.0.right" timestamp="1582987942917">
+    <state width="1877" height="303" key="GridCell.Tab.0.center/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582990919041" />
+    <state width="1877" height="303" key="GridCell.Tab.0.left" timestamp="1582990919041">
       <screen x="1366" y="-494" width="1920" height="1050" />
     </state>
-    <state width="1877" height="303" key="GridCell.Tab.0.right/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582987942917" />
+    <state width="1877" height="303" key="GridCell.Tab.0.left/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582990919041" />
+    <state width="1877" height="303" key="GridCell.Tab.0.right" timestamp="1582990919041">
+      <screen x="1366" y="-494" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="303" key="GridCell.Tab.0.right/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1582990919041" />
+    <state x="2022" y="-146" key="com.intellij.ide.util.TipDialog" timestamp="1583229968531">
+      <screen x="1366" y="-494" width="1920" height="1050" />
+    </state>
+    <state x="2022" y="-146" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-494.1920.1050@1366.-494.1920.1050" timestamp="1583229968531" />
     <state x="2056" y="-214" key="extract.method.dialog" timestamp="1582986576443">
       <screen x="1366" y="-494" width="1920" height="1050" />
     </state>

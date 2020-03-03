@@ -7,7 +7,7 @@ public class UserService {
     @Resource
     public CardDAO cardDAO;
 
-    @Resource(name = "userDAO")
+    @Resource(id = "userDAO")
     public void setUserDAO(UserDAO userDAO) {
         this.userDAO = userDAO;
     }
